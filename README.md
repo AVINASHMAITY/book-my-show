@@ -6,7 +6,8 @@ BookMyShow project is a web application that allows users to book movie tickets 
 The project uses both local storage and MongoDB for temporary and permanent data storage, respectively.Library i used in this project is react js, node js, mongodb, express js and bootstrap
 
 ## ScreenShot of application
-![bookmyshow ss1](https://avinash-bookmyshow.netlify.app/)
+![Screenshot (137)](https://github.com/AVINASHMAITY/book-my-show/assets/95832605/bccf5c7e-317f-47e2-943b-aaad74ca9901)
+
 
 ## Features
 
