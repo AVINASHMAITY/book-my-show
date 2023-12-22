@@ -30,7 +30,7 @@ Before running the project, make sure you have the following prerequisites insta
 1. Clone the repository from GitHub:
 
 ```
-git clone 
+git clone https://github.com/AVINASHMAITY/book-my-show
 ```
 
 2. Install the required dependencies:
